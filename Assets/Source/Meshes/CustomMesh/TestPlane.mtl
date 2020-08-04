@@ -1,0 +1,18 @@
+newmtl One
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ni 1
+Ns 500
+Tf 1 1 1
+d 1
+map_Kd TestOne.png
+newmtl Two
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ni 1
+Ns 500
+Tf 1 1 1
+d 1
+map_Kd TestTwo.png
